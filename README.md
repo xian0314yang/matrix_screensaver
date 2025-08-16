@@ -2,6 +2,17 @@
 a screensaver for windows
 ![駭客任務亂碼雨](images/matrix_rain.png)
 
+1️⃣ 安裝 Python
+
+下載 Python：https://www.python.org/downloads/
+
+安裝時勾選 Add Python to PATH（非常重要）
+
+安裝完成後，打開命令提示字元測試：
+
+python --version
+應該會顯示 Python 版本號。
+
 
 使用方法
 
@@ -9,17 +20,24 @@ a screensaver for windows
 
 先安裝 PyInstaller：
 
+在 CMD 視窗下
+
 pip install pyinstaller
 
+完成安裝pyinstaller
 
 打包：
 
-pyinstaller --onefile --noconsole matrix_screensaver.py
+pyinstaller --onefile --noconsole matrix_rain movie.py
+or
+
+如果你懶得 cd 到資料夾，可以直接給 完整路徑：
+pyinstaller --onefile --windowed "C:\Users\你\Desktop\matrix_rain movie.py"
 
 
-打包後到 dist 資料夾找到 matrix_screensaver.exe，改名成：
+打包後到 dist 資料夾找到 matrix_rain movie.exe，改名成：
 
-matrix_screensaver.scr
+matrix_rain movie.scr
 
 
 把它放到：
