@@ -47,9 +47,7 @@ C:\Windows\System32
 
 到 Windows 螢幕保護程式設定裡就能看到它。
 
-<h3><span style="color:red">新增 小說閱讀螢幕保護程式</span></h3>
-
-<p style="font-size:18px; color:purple">新增 小說閱讀螢幕保護程式</p>
+<h3><font color="blue">新增 小說閱讀螢幕保護程式</font></h3>
 
 novel_read screen.py
 
