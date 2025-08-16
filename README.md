@@ -51,8 +51,8 @@ C:\Windows\System32
 ###  新增 小說閱讀螢幕保護程式
 novel_read screen.py
 
-需將一個 txt 檔案放在與程式同一個目錄下
+需將一個 messages.txt 檔案放在與程式同一個目錄下
 
-可播放使用者自訂 txt 檔案的內容的螢幕保護程式
+可播放使用者自訂 messages.txt 檔案的內容的螢幕保護程式
 
 打包方式如上面 matrix screensaver 一樣
