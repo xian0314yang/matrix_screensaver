@@ -51,7 +51,9 @@ C:\Windows\System32
 ###  新增 小說閱讀螢幕保護程式
 novel_read screensaver.py
 
-需將一個 messages.txt 檔案放在與程式同一個目錄下
+需將一個 messages.txt 檔案放在c:\windows\system32\ 目錄底下
+
+或可自行在程式內修改 messages.txt 所在目錄
 
 可播放使用者自訂 messages.txt 檔案的內容的螢幕保護程式
 
