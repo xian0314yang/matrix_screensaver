@@ -49,7 +49,7 @@ C:\Windows\System32
 
 -----------------------------------
 ###  新增 小說閱讀螢幕保護程式
-novel_read screen.py
+novel_read screensaver.py
 
 需將一個 messages.txt 檔案放在與程式同一個目錄下
 
