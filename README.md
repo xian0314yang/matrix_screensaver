@@ -47,7 +47,7 @@ C:\Windows\System32
 
 到 Windows 螢幕保護程式設定裡就能看到它。
 
-🔧<h6>新增 小說閱讀螢幕保護程式</h6>
+### H3 新增 小說閱讀螢幕保護程式
 novel_read screen.py
 
 需將一個 txt 檔案放在與程式同一個目錄下
